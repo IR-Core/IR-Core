@@ -7,6 +7,8 @@
 
 Building cognitive intelligence infrastructure and next-generation human-computer interaction protocols.
 
+*Founded in Songshan Lake, Dongguan (March 2026). We focus on AI-humanities interaction and cognitive AI — technology that serves people, not the other way around.*
+
 ## What is this repository?
 
 This repository contains:
@@ -22,6 +24,8 @@ This repository contains:
 ## Downloads
 
 - [AI Memory Chain Whitepaper v1.0 (CN)](./AI记忆链商业化白皮书1.0.pdf)
+
+*We have also released a Cognitive Intelligence Whitepaper (CA+COS) and filed multiple invention patents. More to come.*
 
 ## License
 
