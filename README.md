@@ -1,6 +1,6 @@
 # Intent Resonance Core Protocol (IR-Core)
 
-**Version:** 3.0  
+**Latest Whitepaper:** v1.0 (Jun 2026)  
 **Status:** Specification & Whitepaper
 
 > **Copyright Notice**  
@@ -28,6 +28,8 @@ Building cognitive intelligence infrastructure and next-generation human-compute
 | 双轨制 | **Dual-Track Model** | 存储月租（固定）+ Token 按量计费（浮动），替代纯订阅制。<br>Storage rent (fixed) + token pay-as-you-go (variable), replacing the pure subscription model. |
 | 意图共鸣 | **Intention Resonance (IR)** | 人机交互协议的核心机制：让 AI 理解并适应人类意图。<br>The core mechanism of HCI protocols: enabling AI to understand and adapt to human intention. |
 
+> 📖 完整术语表（含机器可读 JSON）请参阅 [IR-Glossary](https://github.com/IR-Core/IR-Glossary) 仓库。
+
 ---
 
 ## What is this repository?
@@ -48,9 +50,10 @@ This repository contains:
 
 ## Downloads
 
-- [《AI记忆链商业化白皮书》v1.0 (中文)](./AI记忆链商业化白皮书1.0.pdf)
+- [《AI记忆链商业化白皮书》v1.0 (中文)](https://github.com/IR-Core/IR-Core/releases)
 
-*We have also released a Cognitive Intelligence Whitepaper (CA+COS) and filed multiple invention patents. More to come.*
+**Abstract (English):**  
+This whitepaper proposes a continuity-oriented AI service architecture centered on user data ownership. It introduces the Dual-Track Model (decoupled storage rent and token-based compute billing) and Cloud-Deployment Sovereignty, addressing structural inefficiencies in current subscription-based AI services.
 
 ---
 
@@ -61,7 +64,7 @@ This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licens
 ## Contact & Discussion
 
 - **Issues**: For reporting problems with documents
-- **Discussions**: For protocol discussions (coming soon)
+- **Discussions**: [Open a discussion](https://github.com/IR-Core/IR-Core/discussions)
 
 ---
 
