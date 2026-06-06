@@ -63,8 +63,7 @@ This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licens
 
 ## Contact & Discussion
 
-- **Issues**: [Report a problem](https://github.com/IR-Core/IR-Core/issues)
-- **Discussions**: [Open a discussion](https://github.com/IR-Core/IR-Core/discussions)
+- **Public Archive**: For reference only. No active community support.
 
 ---
 
