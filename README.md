@@ -21,9 +21,7 @@ This repository contains:
 
 ## Downloads
 
-- [Chinese Whitepaper 1.0](./AI_Memory_Chain_Whitepaper_1.0.pdf)
-- [Chinese Whitepaper 2.0](./AI_Memory_Chain_Whitepaper_2.0.pdf)
-- [Chinese Whitepaper 3.0](./AI_Memory_Chain_Whitepaper_3.0.pdf)
+- [Chinese Whitepaper 1.0](./AI记忆链商业化白皮书1.0.pdf)
 
 *(English versions will be added soon)*
 
