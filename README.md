@@ -21,7 +21,7 @@ This repository contains:
 
 ## Downloads
 
-- [Chinese Whitepaper v1.0](./AI记忆链商业化白皮书1.0.pdf)
+- [AI Memory Chain Whitepaper v1.0 (Chinese)](./AI记忆链商业化白皮书1.0.pdf)
 
 ## License
 
