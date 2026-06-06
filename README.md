@@ -23,7 +23,7 @@ This repository contains:
 
 - [Chinese Whitepaper 1.0](./AI记忆链商业化白皮书1.0.pdf)
 
-*(English versions will be added soon)*
+*Whitepaper 2.0, 3.0 and English versions will be added soon.*
 
 ## License
 
