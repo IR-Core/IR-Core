@@ -11,7 +11,7 @@ Building cognitive intelligence infrastructure and next-generation human-compute
 
 This repository contains:
 
-- 📄 **Whitepaper series** (1.0, 2.0, 3.0) — CN & EN
+- 📄 **Whitepaper (v1.0)** — CN
 - 🧠 **Protocol definition** (conceptual framework)
 - 📌 **Public timestamp proof** of our ideas
 
@@ -21,9 +21,7 @@ This repository contains:
 
 ## Downloads
 
-- [Chinese Whitepaper 1.0](./AI记忆链商业化白皮书1.0.pdf)
-
-*Whitepaper 2.0, 3.0 and English versions will be added soon.*
+- [Chinese Whitepaper v1.0](./AI记忆链商业化白皮书1.0.pdf)
 
 ## License
 
@@ -36,4 +34,4 @@ This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licens
 
 ---
 
-**意图共鸣科技** — *Let AI embrace humanity, let AI adapt to humanity.*
+**Intention Resonance (IR)** — *Let AI embrace humanity, let AI adapt to humanity.*
