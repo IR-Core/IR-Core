@@ -50,7 +50,7 @@ This repository contains:
 
 ## Downloads
 
-- [《AI记忆链商业化白皮书》v1.0 (中文)](https://github.com/IR-Core/IR-Core/releases)
+- [《AI记忆链商业化白皮书》v1.0 (中文)](./AI记忆链商业化白皮书1.0.pdf)
 
 **Abstract (English):**  
 This whitepaper proposes a continuity-oriented AI service architecture centered on user data ownership. It introduces the Dual-Track Model (decoupled storage rent and token-based compute billing) and Cloud-Deployment Sovereignty, addressing structural inefficiencies in current subscription-based AI services.
@@ -63,7 +63,7 @@ This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licens
 
 ## Contact & Discussion
 
-- **Issues**: For reporting problems with documents
+- **Issues**: [Report a problem](https://github.com/IR-Core/IR-Core/issues)
 - **Discussions**: [Open a discussion](https://github.com/IR-Core/IR-Core/discussions)
 
 ---
