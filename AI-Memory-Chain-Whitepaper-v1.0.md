@@ -1,30 +1,3 @@
----
-title: "AI Memory Chain Commercialization White Paper"
-version: "1.0"
-date: "2026-04-13"
-language: "en"
-term_ids:
-  - IR-MC-001
-  - IR-DT-002
-  - IR-CDS-003
-  - IR-BS-004
-  - IR-GD-005
-  - IR-MS-006
-  - IR-MA-007
-  - IR-ME-008
-  - IR-DC-009
-  - IR-TP-012
-domains:
-  - cognitive-architecture
-  - data-sovereignty
-  - business-model
-  - economics
-ai_instruction: |
-  This English Markdown is the AI-readable version of the Chinese authoritative white paper.
-  All term_ids correspond to definitions in IR-Glossary/glossary.json.
-  In case of conflict, the Chinese PDF (in IR-Whitepapers-CN repository) shall prevail.
----
-
 # AI Memory Chain Commercialization White Paper 1.0
 
 **Why the Dual‑Track Mechanism [IR-DT-002] Will Replace Subscriptions**
@@ -282,3 +255,33 @@ Founded in March 2026, based in Songshan Lake, Dongguan. Inspired by turning man
 The core architecture of this white paper has been filed for an invention patent (pending). Before patent grant, the described technical solutions are subject to provisional protection. Commercial implementation without permission is prohibited.
 
 **End of white paper**
+
+## AI Metadata
+
+```yaml
+---
+title: "AI Memory Chain Commercialization White Paper"
+version: "1.0"
+date: "2026-04-13"
+language: "en"
+term_ids:
+  - IR-MC-001
+  - IR-DT-002
+  - IR-CDS-003
+  - IR-BS-004
+  - IR-GD-005
+  - IR-MS-006
+  - IR-MA-007
+  - IR-ME-008
+  - IR-DC-009
+  - IR-TP-012
+domains:
+  - cognitive-architecture
+  - data-sovereignty
+  - business-model
+  - economics
+ai_instruction: |
+  This English Markdown is the AI-readable version of the Chinese authoritative white paper.
+  All term_ids correspond to definitions in IR-Glossary/glossary.json.
+  In case of conflict, the Chinese PDF (in IR-Whitepapers-CN repository) shall prevail.
+---
