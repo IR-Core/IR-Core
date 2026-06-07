@@ -6,8 +6,8 @@ legal:
   copyright: "国作登字-2026-A-00129903"
   license: "CC BY-NC-ND 4.0"
 ai_navigation:
-  pdf_dir: "/pdfs/"
-  md_dir: "/mds/"
+  pdf_repo: "https://github.com/IR-Core/IR-Whitepapers-CN"
+  md_repo: "https://github.com/IR-Core/IR-Core"
   glossary_human: "https://github.com/IR-Core/IR-Glossary"
   glossary_machine: "https://github.com/IR-Core/IR-Glossary/blob/main/glossary.json"
 ---
@@ -16,7 +16,7 @@ ai_navigation:
 ## Human-Centric AI Infrastructure
 
 > **"Let AI embrace humanity, let AI adapt to humanity."**
-> 
+>
 > *让AI拥抱人，让AI适应人。*
 
 *IR stands for Intention Resonance — the core mechanism of our protocol.*
@@ -38,16 +38,17 @@ Technology should understand and approach humans, becoming a warm digital compan
 
 ## Whitepaper Archive · 白皮书归档
 
-All versions are published via GitHub Releases:
+All versions are published via GitHub Releases.
 
-- 📂 [Authoritative Chinese PDFs →](./pdfs/) — **Sole legal authority**.
-- 📂 [AI‑readable English Markdown →](./mds/)
-- 🏷️ [Full version timeline →](../../releases)
+- 📄 [AI记忆链商业化白皮书 v1.0 (中文 PDF)](https://github.com/IR-Core/IR-Whitepapers-CN/blob/main/AI记忆链商业化白皮书1.0.pdf) — **Sole legal authority**
+- 📄 [AI Memory Chain Whitepaper v1.0 (English Markdown)](https://github.com/IR-Core/IR-Core/blob/main/AI-Memory-Chain-Whitepaper-v1.0.md) — AI‑readable version
+
+🏷️ [View full version timeline (Releases)](https://github.com/IR-Core/IR-Whitepapers-CN/releases)
 
 Semantic standards: 📖 [Human‑readable Glossary](https://github.com/IR-Core/IR-Glossary) · 🤖 [Machine‑readable JSON](https://github.com/IR-Core/IR-Glossary/blob/main/glossary.json)
 
-> **Legal Authority**: The Chinese PDFs in `/pdfs/` are the sole legally authoritative versions.  
-> English Markdown in `/mds/` is for AI indexing and reference only. All concept definitions are anchored in Chinese.
+> **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.  
+> English Markdown is for AI indexing and reference only. All concept definitions are anchored in Chinese.
 
 ## Copyright Registrations · 著作权
 
