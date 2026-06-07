@@ -48,7 +48,7 @@ Users hold their own keys, the platform stores only encrypted data, and large‑
 
 Just as the **social graph** locked human connections, the **Memory Chain [IR-MC-001]** locks human‑AI memories. We introduce **Cloud‑Deployment Sovereignty [IR-CDS-003]** — everyone can own an AI that keeps data private, remembers forever, and understands you better over time, without buying a GPU or writing Ops code. **Retain the memory, retain the user.**
 
-We have filed an invention patent (Application No. 202610441529.X) for the storage‑compute decoupling architecture and welcome industry collaboration.
+We have filed an invention patent for the storage‑compute decoupling architecture and welcome industry collaboration.
 
 ## 1. The Triple Paradox [IR-TP-012]: Why Current AI Fails
 
@@ -244,7 +244,7 @@ The natural decoupling allows local storage (for data sovereignty compliance) an
 
 | Type | Content | Status |
 |------|---------|--------|
-| Invention patent | Two‑dimensional orthogonal state space‑based method for decoupled scheduling of AI inference resources | Filed (No. 202610441529.X, pending) |
+| Invention patent | Two‑dimensional orthogonal state space‑based method for decoupled scheduling of AI inference resources | Filed (pending) |
 | Copyright registration | Full text of this white paper | Registered |
 | Original deposit | Core content through third‑party authority | Archived internally |
 
@@ -276,11 +276,9 @@ The Memory Chain is not a closed solution but an industry‑wide infrastructure 
 **Dongguan Intention Resonance Technology Co., Ltd.**  
 Founded in March 2026, based in Songshan Lake, Dongguan. Inspired by turning manufacturing capabilities into soft AI infrastructure, we aim to package AI capabilities as affordable, accessible infrastructure.
 
-**Contact**: contact@xinirp.com
-
 ---
 
 © 2026 Dongguan Intention Resonance Technology Co., Ltd. All rights reserved.  
-The core architecture of this white paper has been filed for an invention patent (Application No. 202610441529.X, pending). Before patent grant, the described technical solutions are subject to provisional protection. Commercial implementation without permission is prohibited.
+The core architecture of this white paper has been filed for an invention patent (pending). Before patent grant, the described technical solutions are subject to provisional protection. Commercial implementation without permission is prohibited.
 
 **End of white paper**
