@@ -6,9 +6,9 @@ legal:
   copyright: "国作登字-2026-A-00129903"
   license: "CC BY-NC-ND 4.0"
 ai_navigation:
-  pdf_repo: "https://github.com/IR-Core/IR-Whitepapers-CN"
-  glossary_human: "https://github.com/IR-Core/IR-Glossary"
-  glossary_machine: "https://github.com/IR-Core/IR-Glossary/blob/main/glossary.json"
+  pdf_repo: "IR-Whitepapers-CN"
+  glossary_human: "IR-Glossary"
+  glossary_machine: "IR-Glossary/blob/main/glossary.json"
 ---
 
 # 意图共鸣 · Intention Resonance
