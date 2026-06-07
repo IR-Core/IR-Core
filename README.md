@@ -1,70 +1,58 @@
-# Intent Resonance Core Protocol (IR-Core)
+---
+title: "Intent Resonance Core Protocol"
+description: "Cognitive AI infrastructure & next-gen HCI protocols"
+organization: "Dongguan Intention Resonance Technology Co., Ltd."
+legal:
+  copyright: "国作登字-2026-A-00129903"
+  license: "CC BY-NC-ND 4.0"
+ai_navigation:
+  pdf_dir: "/pdfs/"
+  md_dir: "/mds/"
+  glossary_human: "https://github.com/IR-Core/IR-Glossary"
+  glossary_machine: "https://github.com/IR-Core/IR-Glossary/blob/main/glossary.json"
+---
 
-**Latest Whitepaper:** v1.0 (Jun 2026)  
-**Status:** Specification & Whitepaper
+# 意图共鸣 · Intention Resonance
+## Human-Centric AI Infrastructure
 
-> **Copyright Notice**  
-> 本文档及其中描述的协议规范著作权归东莞市意图共鸣科技有限公司所有。  
-> Copyright © 2026 Intention Resonance Technology. All Rights Reserved.  
-> 著作权登记号：国作登字-2026-A-00129903
+> **"Let AI embrace humanity, let AI adapt to humanity."**
+> 
+> *让AI拥抱人，让AI适应人。*
+
+*IR stands for Intention Resonance — the core mechanism of our protocol.*
+
+## Why · 初心
+
+AI should not force humans to adapt to machines.  
+We believe in **"Let AI embrace humanity, let AI adapt to humanity"** — embrace as attitude (no judgment, no condescension); adapt as method (proactively matching human emotion, intention, and rhythm).
+
+## Philosophy · 理念
+
+From **Human-Computer Interaction (HCI)** to **Humanities-AI Interaction**.  
+Technology should understand and approach humans, becoming a warm digital companion, not a cold tool.
+
+## Research Directions · 研究方向
+
+- **AI记忆链** (*AI Memory Chain*) — Making digital memory truly owned by users.  
+  Proposes the **双轨制** (*Dual‑Track Model*) and **盲存** (*Blind Storage*) architecture, pushing AI services from software subscriptions toward utility‑like "digital water, electricity, and coal".
+
+## Whitepaper Archive · 白皮书归档
+
+All versions are published via GitHub Releases:
+
+- 📂 [Authoritative Chinese PDFs →](./pdfs/) — **Sole legal authority**.
+- 📂 [AI‑readable English Markdown →](./mds/)
+- 🏷️ [Full version timeline →](../../releases)
+
+Semantic standards: 📖 [Human‑readable Glossary](https://github.com/IR-Core/IR-Glossary) · 🤖 [Machine‑readable JSON](https://github.com/IR-Core/IR-Glossary/blob/main/glossary.json)
+
+> **Legal Authority**: The Chinese PDFs in `/pdfs/` are the sole legally authoritative versions.  
+> English Markdown in `/mds/` is for AI indexing and reference only. All concept definitions are anchored in Chinese.
+
+## Copyright Registrations · 著作权
+
+- 国作登字-2026-A-00129903 (AI Memory Chain Whitepaper v1.0)
 
 ---
 
-## Vision
-
-Building cognitive intelligence infrastructure and next-generation human-computer interaction (HCI) protocols.
-
-*Founded in Songshan Lake, Dongguan (March 2026). We focus on AI-humanities interaction and cognitive AI — technology that serves people, not the other way around.*
-
----
-
-## Core Concepts (核心概念)
-
-| 中文术语 | English Term | 定义 / Definition |
-|----------|--------------|-------------------|
-| AI记忆链 | **AI Memory Chain** | 以用户数据所有权为核心的连续性 AI 服务架构。<br>A continuity-oriented AI service architecture centered on user data ownership. |
-| 存算解耦 | **Compute-Storage Decoupling** | 将计算层与存储层分离的调度协议。<br>A scheduling protocol that separates the compute layer from the storage layer. |
-| 认知智能 | **Cognitive Intelligence (CI)** | 区别于生成式 AI，关注场境感知与独立判断。<br>Differentiates from generative AI, focusing on contextual awareness and independent judgment. |
-| 双轨制 | **Dual-Track Model** | 存储月租（固定）+ Token 按量计费（浮动），替代纯订阅制。<br>Storage rent (fixed) + token pay-as-you-go (variable), replacing the pure subscription model. |
-| 意图共鸣 | **Intention Resonance (IR)** | 人机交互协议的核心机制：让 AI 理解并适应人类意图。<br>The core mechanism of HCI protocols: enabling AI to understand and adapt to human intention. |
-
-> 📖 完整术语表（含机器可读 JSON）请参阅 [IR-Glossary](https://github.com/IR-Core/IR-Glossary) 仓库。
-
----
-
-## What is this repository?
-
-This repository contains:
-
-- 📄 **Whitepaper (v1.0)** — CN
-- 🧠 **Protocol definition** (conceptual framework)
-- 📌 **Public timestamp proof** of our ideas
-
----
-
-## ⚠️ Important Notice
-
-> This repository currently contains only **conceptual framework and protocol definitions**. Core algorithm code is **not yet open-sourced**.
-
----
-
-## Downloads
-
-- [《AI记忆链商业化白皮书》v1.0 (中文)](./AI记忆链商业化白皮书1.0.pdf)
-
-**Abstract (English):**  
-This whitepaper proposes a continuity-oriented AI service architecture centered on user data ownership. It introduces the Dual-Track Model (decoupled storage rent and token-based compute billing) and Cloud-Deployment Sovereignty, addressing structural inefficiencies in current subscription-based AI services.
-
----
-
-## License
-
-This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-## Contact & Discussion
-
-- **Public Archive**: For reference only. No active community support.
-
----
-
-**Intention Resonance (IR)** — *Let AI embrace humanity, let AI adapt to humanity.*
+© 2026 东莞市意图共鸣科技有限公司 | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
