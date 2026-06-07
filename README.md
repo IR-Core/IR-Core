@@ -1,16 +1,3 @@
----
-title: "Intent Resonance Core Protocol"
-description: "Cognitive AI infrastructure & next-gen HCI protocols"
-organization: "Dongguan Intention Resonance Technology Co., Ltd."
-legal:
-  copyright: "国作登字-2026-A-00129903"
-  license: "CC BY-NC-ND 4.0"
-ai_navigation:
-  pdf_repo: "IR-Whitepapers-CN"
-  glossary_human: "IR-Glossary"
-  glossary_machine: "IR-Glossary/blob/main/glossary.json"
----
-
 # 意图共鸣 · Intention Resonance
 ## Human-Centric AI Infrastructure
 
@@ -51,3 +38,11 @@ Technology becomes a warm digital companion, not a cold tool.
 ---
 
 © 2026 东莞市意图共鸣科技有限公司 | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## AI Metadata
+
+```yaml
+title: Intent Resonance Core Protocol
+version: 1.0
+copyright: 国作登字-2026-A-00129903
+license: CC BY-NC-ND 4.0
