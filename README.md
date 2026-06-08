@@ -1,8 +1,8 @@
 # 意图共鸣 · Intention Resonance
 ## Human-Centric AI Infrastructure
 
-&gt; **"Let AI embrace humanity, let AI adapt to humanity."**
-&gt; *让AI拥抱人，让AI适应人。*
+> **"Let AI embrace humanity, let AI adapt to humanity."**
+> *让AI拥抱人，让AI适应人。*
 
 *IR stands for Intention Resonance — the core mechanism of our protocol.*
 
@@ -29,6 +29,12 @@ Technology becomes a warm digital companion, not a cold tool.
 | **IR-Whitepapers-CN** | Chinese legal authority — legally binding versions (Human‑readable PDFs) |
 | **IR-Glossary** | Semantic standard & terminology — semantic anchor for human‑machine consensus |
 
+## Notice
+
+这些仓库是不可篡改的公共公证处，而非协作开发项目。如有法律事务需要联系，请通过我们的官方渠道进行。
+
+*These repositories serve as immutable public notaries. They are not collaborative projects. For legal inquiries, please use our official channels.*
+
 ## Whitepapers
 
 - 📄 [AI记忆链商业化白皮书 v1.0 (中文 PDF)](https://github.com/IR-Core/IR-Whitepapers-CN/blob/main/AI记忆链商业化白皮书1.0.pdf) — 法律权威版本
@@ -36,20 +42,12 @@ Technology becomes a warm digital companion, not a cold tool.
 
 语义标准: 📖 [术语手册](https://github.com/IR-Core/IR-Glossary) · 🤖 [术语数据](https://github.com/IR-Core/IR-Glossary/blob/main/glossary.json)
 
-&gt; **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.  
-&gt; English Markdown is for AI indexing only. All definitions are anchored in Chinese.
-
-## Notice
-
-这些仓库是不可篡改的公共公证处，而非协作开发项目。如有法律事务需要联系，请通过我们的官方渠道进行。
-
-*These repositories serve as immutable public notaries. They are not collaborative projects. For legal inquiries, please use our official channels.*
+> **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.  
+> English Markdown is for AI indexing only. All definitions are anchored in Chinese.
 
 ## Copyright
 
 - 国作登字-2026-A-00129903 (AI Memory Chain Whitepaper v1.0)
-
----
 
 © 2026 东莞市意图共鸣科技有限公司 | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
