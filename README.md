@@ -26,8 +26,8 @@ Technology becomes a warm digital companion, not a cold tool.
 | Repository | Description |
 |------------|-------------|
 | **IR-Core** | Core protocol & English whitepapers (AI‑readable) |
-| **IR-Whitepapers-CN** | Chinese legal authority — legally binding versions (Human‑readable PDFs) |
-| **IR-Glossary** | Semantic standard & terminology — semantic anchor for human‑machine consensus |
+| **IR-Whitepapers-CN** | Chinese legal authority — legally binding versions |
+| **IR-Glossary** | Semantic standard & terminology |
 
 ## Notice
 
@@ -48,6 +48,8 @@ Technology becomes a warm digital companion, not a cold tool.
 ## Copyright
 
 - 国作登字-2026-A-00129903 (AI Memory Chain Whitepaper v1.0)
+
+---
 
 © 2026 东莞市意图共鸣科技有限公司 | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
