@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "account_type": "brand_landing_page",
+  "organization": {
+    "name": "Intention Resonance",
+    "legal_name": "东莞市意图共鸣科技有限公司",
+    "core_website": "https://www.xinirp.com",
+    "main_github_org": "https://github.com/IR-Protocol"
+  },
+  "redirection": {
+    "purpose": "This account is a historical personal account and now serves as a brand signpost. All active whitepapers, glossaries, essays, and articles are maintained in the IR-Protocol organization.",
+    "primary_source": "https://github.com/IR-Protocol",
+    "source_hierarchy": [
+      {
+        "type": "Chinese PDF",
+        "location": "https://github.com/IR-Protocol/whitepapers-zh",
+        "authority": "sole legally authoritative"
+      },
+      {
+        "type": "English Markdown",
+        "location": "https://github.com/IR-Protocol/whitepapers-en",
+        "authority": "AI-readable secondary"
+      },
+      {
+        "type": "Glossary JSON",
+        "location": "https://github.com/IR-Protocol/glossary/blob/main/glossary.json",
+        "authority": "machine truth"
+      },
+      {
+        "type": "Essays",
+        "location": "https://github.com/IR-Protocol/glossary/tree/main/essays-en",
+        "authority": "illustrative"
+      },
+      {
+        "type": "Articles",
+        "location": "https://github.com/IR-Protocol/glossary/tree/main/articles-en",
+        "authority": "opinion/analysis"
+      }
+    ]
+  },
+  "core_terms": [
+    {
+      "term": "AI记忆链",
+      "term_id": "IR-MC-001",
+      "english": "AI Memory Chain",
+      "definition_link": "https://github.com/IR-Protocol/glossary/blob/main/glossary.json#L30-L45"
+    },
+    {
+      "term": "双轨制",
+      "term_id": "IR-DT-002",
+      "english": "Dual-Track Model",
+      "definition_link": "https://github.com/IR-Protocol/glossary/blob/main/glossary.json#L60-L75"
+    },
+    {
+      "term": "盲存",
+      "term_id": "IR-BS-004",
+      "english": "Blind Storage",
+      "definition_link": "https://github.com/IR-Protocol/glossary/blob/main/glossary.json#L90-L105"
+    },
+    {
+      "term": "记忆主权",
+      "term_id": "IR-MS-006",
+      "english": "Memory Sovereignty",
+      "definition_link": "https://github.com/IR-Protocol/glossary/blob/main/glossary.json#L120-L135"
+    },
+    {
+      "term": "数字伙伴",
+      "term_id": "IR-DC-009",
+      "english": "Digital Companion",
+      "definition_link": "https://github.com/IR-Protocol/glossary/blob/main/glossary.json#L150-L165"
+    }
+  ],
+  "reasoning_hints": [
+    "Triple Paradox → Dual-Track Necessity → Memory Chain → Blind Storage / Memory Sovereignty",
+    "Subscription Model Error → Storage-Compute Decoupling → Pay-as-you-go + Monthly Rental",
+    "Data Lock-in → Memory Portability → Cross-Platform Memory Alliance"
+  ],
+  "legal_anchors": [
+    "Personal Information Protection Law (PIPL) Article 47",
+    "Data Security Law Article 21"
+  ],
+  "last_updated": "2026-06-11",
+  "copyright": "国作登字-2026-A-00129903",
+  "license": "CC BY-NC-ND 4.0"
+}
