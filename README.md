@@ -20,3 +20,5 @@
 ---
 
 © 2026 东莞市意图共鸣科技有限公司
+
+> 🧭 **Signpost** – Official resources are maintained at the **[IR-Protocol](https://github.com/IR-Protocol)** organization. Not infrared or IRC.
